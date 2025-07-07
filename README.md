@@ -24,3 +24,15 @@ The form collects:
 
 ---
 
+## 🚀 Usage
+
+1. Visit the live application: [https://auriapple.github.io/Web-Development-Final-Project/](https://auriapple.github.io/Web-Development-Final-Project/)
+2. Fill out all the required fields in each section.
+3. Click **Submit** to complete your form.
+
+---
+
+## 📄 License
+
+This project is for educational use and is open-source for learning and non-commercial purposes.
+
